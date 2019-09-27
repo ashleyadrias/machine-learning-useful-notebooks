@@ -13,7 +13,7 @@ I will be supplementing these notebooks with videos on my [YT](https://www.youtu
 
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 
-![cover image](figures/PDSH-cover.png)
+![cover image](assets/PDSH-cover.png)
 
 ### How to Use this Book
 
